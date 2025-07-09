@@ -1,4 +1,20 @@
 # E-LEARNING-PLATFORM-UI
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SAURABH RAI
+
+INTERN ID:CT04DG1385
+
+DOMAIN:FRONT END WEB DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+## PROJECT:E-LEARNING-PLATFORM-UI
+
+# E-LEARNING-PLATFORM-UI
 Welcome to the **E-Learning Platform UI** project! This is a user interface design for an online learning website created using **HTML**, **CSS**, and **JavaScript**. The goal of this project is to build a modern and responsive front-end design that can be used as a starting point for an online learning system.
 
 This project was developed using **Visual Studio Code** and focuses only on the front-end design (no backend functionality like login or database is included). It’s a great starting template for any developer or student who wants to build or showcase an e-learning platform.
