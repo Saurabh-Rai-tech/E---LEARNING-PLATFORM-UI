@@ -22,4 +22,4 @@ This project was developed using **Visual Studio Code** and focuses only on the 
 - **JavaScript** – For adding basic dynamic features and interactivity
 - **Visual Studio Code (VS Code)** – Used as the code editor
   #OUTPUT
-  
+  <img width="1889" height="1043" alt="Image" src="https://github.com/user-attachments/assets/c8ab6531-985c-4ac4-a875-db06ffa206a9" />
